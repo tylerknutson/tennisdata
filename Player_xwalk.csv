@@ -18,7 +18,7 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2010,Baker J.,Baker,Baker,Jamie,Jamie Baker,104779,Baker J.,TRUE
 2010,Ball C.,Ball,Ball,Carsten,Carsten Ball,104958,Ball C.,TRUE
 2010,Balleret B.,Balleret,Balleret,Benjamin,Benjamin Balleret,104112,Balleret B.,TRUE
-2010,Bautista R.,Bautista,Bautista Agut,Roberto,Roberto Bautista,105138,Bautista Agut R.,TRUE
+2010,Bautista R.,Bautista,Bautista Agut,Roberto,Roberto Bautista Agut,105138,Bautista Agut R.,TRUE
 2010,Beck A.,Beck,Beck,Andreas,Andreas Beck,104676,Beck A.,TRUE
 2010,Beck K.,Beck,Beck,Karol,Karol Beck,103971,Beck K.,TRUE
 2010,Becker B.,Becker,Becker,Benjamin,Benjamin Becker,103794,Becker B.,TRUE
@@ -62,12 +62,12 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2010,Darcis S.,Darcis,Darcis,Steve,Steve Darcis,104327,Darcis S.,TRUE
 2010,Dasnieres de Veigy J.,Dasnieres,Dasnieres De Veigy,Jonathan,Jonathan Dasnieres,104850,Dasnieres De Veigy J.,TRUE
 2010,Davydenko N.,Davydenko,Davydenko,Nikolay,Nikolay Davydenko,103786,Davydenko N.,TRUE
-2010,De Bakker T.,De,De Bakker,Thiemo,Thiemo De,105217,De Bakker T.,TRUE
+2010,De Bakker T.,De,De Bakker,Thiemo,Thiemo De Bakker,105217,De Bakker T.,TRUE
 2010,De Heart R.,De,Deheart,Ryler,Ryler De,104281,Deheart R.,TRUE
 2010,De Voest R.,De,De Voest,Rik,Rik De,103573,De Voest R.,TRUE
 2010,Deheart R.,Deheart,Deheart,Ryler,Ryler Deheart,104281,Deheart R.,TRUE
 2010,Del Bonis F.,Del,Delbonis,Federico,Federico Del,105643,Delbonis F.,TRUE
-2010,Del Potro J.M.,Del,Del Potro,Juan Martin,Juan Martin Del,105223,Del Potro J.,TRUE
+2010,Del Potro J.M.,Del,Del Potro,Juan Martin,Juan Martin Del Potro,105223,Del Potro J.,TRUE
 2010,Delgado R.,Delgado,Delgado,Ramon,Ramon Delgado,102887,Delgado R.,TRUE
 2010,Dent T.,Dent,Dent,Taylor,Taylor Dent,103758,Dent T.,TRUE
 2010,Devvarman S.,Devvarman,Devvarman,Somdev,Somdev Devvarman,104500,Devvarman S.,TRUE
@@ -98,12 +98,12 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2010,Fognini F.,Fognini,Fognini,Fabio,Fabio Fognini,104926,Fognini F.,TRUE
 2010,Gabashvili T.,Gabashvili,Gabashvili,Teymuraz,Teymuraz Gabashvili,104559,Gabashvili T.,TRUE
 2010,Galvani S.,Galvani,Galvani,Stefano,Stefano Galvani,102999,Galvani S.,TRUE
-2010,Garcia-Lopez G.,Garcia-Lopez,Garcia Lopez,Guillermo,Guillermo Garcia-Lopez,104198,Garcia Lopez G.,TRUE
+2010,Garcia-Lopez G.,Garcia-Lopez,Garcia Lopez,Guillermo,Guillermo Garcia Lopez,104198,Garcia Lopez G.,TRUE
 2010,Gasquet R.,Gasquet,Gasquet,Richard,Richard Gasquet,104755,Gasquet R.,TRUE
 2010,Gaudio G.,Gaudio,Gaudio,Gaston,Gaston Gaudio,103292,Gaudio G.,TRUE
 2010,Gicquel M.,Gicquel,Gicquel,Marc,Marc Gicquel,102967,Gicquel M.,TRUE
 2010,Gil F.,Gil,Gil,Frederico,Frederico Gil,104523,Gil F.,TRUE
-2010,Gimeno-Traver D.,Gimeno-Traver,Gimeno Traver,Daniel,Daniel Gimeno-Traver,104593,Gimeno Traver D.,TRUE
+2010,Gimeno-Traver D.,Gimeno-Traver,Gimeno Traver,Daniel,Daniel Gimeno Traver,104593,Gimeno Traver D.,TRUE
 2010,Ginepri R.,Ginepri,Ginepri,Robby,Robby Ginepri,104068,Ginepri R.,TRUE
 2010,Giraldo S.,Giraldo,Giraldo,Santiago,Santiago Giraldo,105053,Giraldo S.,TRUE
 2010,Gojowczyk P.,Gojowczyk,Gojowczyk,Peter,Peter Gojowczyk,105376,Gojowczyk P.,TRUE
@@ -253,7 +253,7 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2010,Rochus C.,Rochus,Rochus,Oliver,Oliver Rochus,103694,Rochus C.,TRUE
 2010,Rochus O.,Rochus,Rochus,Olivier,Olivier Rochus,103694,Rochus O.,TRUE
 2010,Roddick A.,Roddick,Roddick,Andy,Andy Roddick,104053,Roddick A.,TRUE
-2010,Roger-Vasselin E.,Roger-Vasselin,Vasselin,R,R Roger-Vasselin,104273,Vasselin R.,TRUE
+2010,Roger-Vasselin E.,Roger-Vasselin,Vasselin,R,Edouard Roger Vasselin,104273,Vasselin R.,TRUE
 2010,Rosol L.,Rosol,Rosol,Lukas,Lukas Rosol,104586,Rosol L.,TRUE
 2010,Rufin G.,Rufin,Rufin,Guillaume,Guillaume Rufin,105558,Rufin G.,TRUE
 2010,Russell M.,Russell,Russell,Michael,Michael Russell,103188,Russell M.,TRUE
@@ -358,7 +358,7 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2011,Brzezicki J.P.,Brzezicki,Brzezicki,Juan Pablo,Juan Pablo Brzezicki,103976,Brzezicki J.,TRUE
 2011,Bubka S.,Bubka,Bubka,Sergei,Sergei Bubka,104869,Bubka S.,TRUE
 2011,Capdeville P.,Capdeville,Capdeville,Paul,Paul Capdeville,104154,Capdeville P.,TRUE
-2011,Carreno-Busta P.,Carreno-Busta,Carreno Busta,Pablo,Pablo Carreno-Busta,105807,Carreno Busta P.,TRUE
+2011,Carreno-Busta P.,Carreno-Busta,Carreno Busta,Pablo,Pablo Carreno Busta,105807,Carreno Busta P.,TRUE
 2011,Cervenak P.,Cervenak,Cervenak,Pavol,Pavol Cervenak,104965,Cervenak P.,TRUE
 2011,Chardy J.,Chardy,Chardy,Jeremy,Jeremy Chardy,104871,Chardy J.,TRUE
 2011,Chela J.I.,Chela,Chela,Juan Ignacio,Juan Ignacio Chela,103428,Chela J.,TRUE
@@ -379,12 +379,12 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2011,Darcis S.,Darcis,Darcis,Steve,Steve Darcis,104327,Darcis S.,TRUE
 2011,Dasnieres de Veigy J.,Dasnieres,Dasnieres De Veigy,Jonathan,Jonathan Dasnieres,104850,Dasnieres De Veigy J.,TRUE
 2011,Davydenko N.,Davydenko,Davydenko,Nikolay,Nikolay Davydenko,103786,Davydenko N.,TRUE
-2011,De Bakker T.,De,De Bakker,Thiemo,Thiemo De,105217,De Bakker T.,TRUE
-2011,De Schepper K.,De,De Schepper,Kenny,Kenny De,104932,De Schepper K.,TRUE
+2011,De Bakker T.,De,De Bakker,Thiemo,Thiemo De Bakker,105217,De Bakker T.,TRUE
+2011,De Schepper K.,De,De Schepper,Kenny,Kenny De Schepper,104932,De Schepper K.,TRUE
 2011,De Voest R.,De,De Voest,Rik,Rik De,103573,De Voest R.,TRUE
 2011,Decoud S.,Decoud,Decoud,Sebastian,Sebastian Decoud,103850,Decoud S.,TRUE
 2011,Del Bonis F.,Del,Delbonis,Federico,Federico Del,105643,Delbonis F.,TRUE
-2011,Del Potro J.M.,Del,Del Potro,Juan Martin,Juan Martin Del,105223,Del Potro J.,TRUE
+2011,Del Potro J.M.,Del,Del Potro,Juan Martin,Juan Martin Del Potro,105223,Del Potro J.,TRUE
 2011,Delic A.,Delic,Delic,Amer,Amer Delic,104025,Delic A.,TRUE
 2011,Delic M.,Delic,Delic,Mate,Mate Delic,106243,Delic M.,TRUE
 2011,Devilder N.,Devilder,Devilder,Nicolas,Nicolas Devilder,103534,Devilder N.,TRUE
@@ -413,7 +413,7 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2011,Gabashvili T.,Gabashvili,Gabashvili,Teymuraz,Teymuraz Gabashvili,104559,Gabashvili T.,TRUE
 2011,Galdon P.,Galdon,Galdon,Pablo,Pablo Galdon,104640,Galdon P.,TRUE
 2011,Galvani S.,Galvani,Galvani,Stefano,Stefano Galvani,102999,Galvani S.,TRUE
-2011,Garcia-Lopez G.,Garcia-Lopez,Garcia Lopez,Guillermo,Guillermo Garcia-Lopez,104198,Garcia Lopez G.,TRUE
+2011,Garcia-Lopez G.,Garcia-Lopez,Garcia Lopez,Guillermo,Guillermo Garcia Lopez,104198,Garcia Lopez G.,TRUE
 2011,Garza D.,Garza,Garza,Daniel,Daniel Garza,104535,Garza D.,TRUE
 2011,Gasquet R.,Gasquet,Gasquet,Richard,Richard Gasquet,104755,Gasquet R.,TRUE
 2011,Gensse A.,Gensse,Gensse,Augustin,Augustin Gensse,104227,Gensse A.,TRUE
@@ -421,7 +421,7 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2011,Giannessi A.,Giannessi,Giannessi,Alessandro,Alessandro Giannessi,105561,Giannessi A.,TRUE
 2011,Gicquel M.,Gicquel,Gicquel,Marc,Marc Gicquel,102967,Gicquel M.,TRUE
 2011,Gil F.,Gil,Gil,Frederico,Frederico Gil,104523,Gil F.,TRUE
-2011,Gimeno-Traver D.,Gimeno-Traver,Gimeno Traver,Daniel,Daniel Gimeno-Traver,104593,Gimeno Traver D.,TRUE
+2011,Gimeno-Traver D.,Gimeno-Traver,Gimeno Traver,Daniel,Daniel Gimeno Traver,104593,Gimeno Traver D.,TRUE
 2011,Ginepri R.,Ginepri,Ginepri,Robby,Robby Ginepri,104068,Ginepri R.,TRUE
 2011,Giraldo S.,Giraldo,Giraldo,Santiago,Santiago Giraldo,105053,Giraldo S.,TRUE
 2011,Goffin D.,Goffin,Goffin,David,David Goffin,105676,Goffin D.,TRUE
@@ -559,7 +559,7 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2011,Rochus O.,Rochus,Rochus,Olivier,Olivier Rochus,103694,Rochus O.,TRUE
 2011,Roddick A.,Roddick,Roddick,Andy,Andy Roddick,104053,Roddick A.,TRUE
 2011,Rodrigues M.,Rodrigues,Rodrigues,Mathieu,Mathieu Rodrigues,104633,Rodrigues M.,TRUE
-2011,Roger-Vasselin E.,Roger-Vasselin,Vasselin,R,R Roger-Vasselin,110261,Vasselin R.,TRUE
+2011,Roger-Vasselin E.,Roger-Vasselin,Vasselin,R,Edouard Roger Vasselin,110261,Vasselin R.,TRUE
 2011,Romboli F.,Romboli,Romboli,Fernando,Fernando Romboli,105262,Romboli F.,TRUE
 2011,Rosol L.,Rosol,Rosol,Lukas,Lukas Rosol,104586,Rosol L.,TRUE
 2011,Rufin G.,Rufin,Rufin,Guillaume,Guillaume Rufin,105558,Rufin G.,TRUE
@@ -646,7 +646,7 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2012,Baker J.,Baker,Baker,Jamie,Jamie Baker,104779,Baker J.,TRUE
 2012,Balazs A.,Balazs,Balazs,Attila,Attila Balazs,105226,Balazs A.,TRUE
 2012,Balleret B.,Balleret,Balleret,Benjamin,Benjamin Balleret,104112,Balleret B.,TRUE
-2012,Bautista R.,Bautista,Bautista Agut,Roberto,Roberto Bautista,105138,Bautista Agut R.,TRUE
+2012,Bautista R.,Bautista,Bautista Agut,Roberto,Roberto Bautista Agut,105138,Bautista Agut R.,TRUE
 2012,Beck A.,Beck,Beck,Andreas,Andreas Beck,104676,Beck A.,TRUE
 2012,Beck K.,Beck,Beck,Karol,Karol Beck,103971,Beck K.,TRUE
 2012,Becker B.,Becker,Becker,Benjamin,Benjamin Becker,103794,Becker B.,TRUE
@@ -687,12 +687,12 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2012,Dasnieres de Veigy J.,Dasnieres,Dasnieres De Veigy,Jonathan,Jonathan Dasnieres,104850,Dasnieres De Veigy J.,TRUE
 2012,Davydenko N.,Davydenko,Davydenko,Nikolay,Nikolay Davydenko,103786,Davydenko N.,TRUE
 2012,Davydenko P.,Davydenko,Davydenko,Philip,Philip Davydenko,106053,Davydenko P.,TRUE
-2012,De Bakker T.,De,De Bakker,Thiemo,Thiemo De,105217,De Bakker T.,TRUE
-2012,De Schepper K.,De,De Schepper,Kenny,Kenny De,104932,De Schepper K.,TRUE
+2012,De Bakker T.,De,De Bakker,Thiemo,Thiemo De Bakker,105217,De Bakker T.,TRUE
+2012,De Schepper K.,De,De Schepper,Kenny,Kenny De Schepper,104932,De Schepper K.,TRUE
 2012,De Voest R.,De,De Voest,Rik,Rik De,103573,De Voest R.,TRUE
 2012,Deen Heshaam A.,Deen,Elyaas Deen Heshaam,Ariez,Ariez Deen,106277,Elyaas Deen Heshaam A.,TRUE
 2012,Del Bonis F.,Del,Delbonis,Federico,Federico Del,105643,Delbonis F.,TRUE
-2012,Del Potro J.M.,Del,Del Potro,Juan Martin,Juan Martin Del,105223,Del Potro J.,TRUE
+2012,Del Potro J.M.,Del,Del Potro,Juan Martin,Juan Martin Del Potro,105223,Del Potro J.,TRUE
 2012,Delbonis F.,Delbonis,Delbonis,Federico,Federico Delbonis,105643,Delbonis F.,TRUE
 2012,Delic A.,Delic,Delic,Amer,Amer Delic,104025,Delic A.,TRUE
 2012,Devilder N.,Devilder,Devilder,Nicolas,Nicolas Devilder,103534,Devilder N.,TRUE
@@ -723,14 +723,14 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2012,Fraile G.,Fraile,Fraile,Gorka,Gorka Fraile,103165,Fraile G.,TRUE
 2012,Fucsovics M.,Fucsovics,Fucsovics,Marton,Marton Fucsovics,105916,Fucsovics M.,TRUE
 2012,Gabashvili T.,Gabashvili,Gabashvili,Teymuraz,Teymuraz Gabashvili,104559,Gabashvili T.,TRUE
-2012,Garcia-Lopez G.,Garcia-Lopez,Garcia Lopez,Guillermo,Guillermo Garcia-Lopez,104198,Garcia Lopez G.,TRUE
+2012,Garcia-Lopez G.,Garcia-Lopez,Garcia Lopez,Guillermo,Guillermo Garcia Lopez,104198,Garcia Lopez G.,TRUE
 2012,Garza D.,Garza,Garza,Daniel,Daniel Garza,104535,Garza D.,TRUE
 2012,Gasquet R.,Gasquet,Gasquet,Richard,Richard Gasquet,104755,Gasquet R.,TRUE
 2012,Ghedin R.,Ghedin,Ghedin,Riccardo,Riccardo Ghedin,104644,Ghedin R.,TRUE
 2012,Giannessi A.,Giannessi,Giannessi,Alessandro,Alessandro Giannessi,105561,Giannessi A.,TRUE
 2012,Gicquel M.,Gicquel,Gicquel,Marc,Marc Gicquel,102967,Gicquel M.,TRUE
 2012,Gil F.,Gil,Gil,Frederico,Frederico Gil,104523,Gil F.,TRUE
-2012,Gimeno-Traver D.,Gimeno-Traver,Gimeno Traver,Daniel,Daniel Gimeno-Traver,104593,Gimeno Traver D.,TRUE
+2012,Gimeno-Traver D.,Gimeno-Traver,Gimeno Traver,Daniel,Daniel Gimeno Traver,104593,Gimeno Traver D.,TRUE
 2012,Ginepri R.,Ginepri,Ginepri,Robby,Robby Ginepri,104068,Ginepri R.,TRUE
 2012,Giraldo S.,Giraldo,Giraldo,Santiago,Santiago Giraldo,105053,Giraldo S.,TRUE
 2012,Goffin D.,Goffin,Goffin,David,David Goffin,105676,Goffin D.,TRUE
@@ -873,7 +873,7 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2012,Rochus C.,Rochus,Rochus,Oliver,Oliver Rochus,103694,Rochus C.,TRUE
 2012,Rochus O.,Rochus,Rochus,Olivier,Olivier Rochus,103694,Rochus O.,TRUE
 2012,Roddick A.,Roddick,Roddick,Andy,Andy Roddick,104053,Roddick A.,TRUE
-2012,Roger-Vasselin E.,Roger-Vasselin,Vasselin,R,R Roger-Vasselin,110261,Vasselin R.,TRUE
+2012,Roger-Vasselin E.,Roger-Vasselin,Vasselin,R,Edouard Roger Vasselin,110261,Vasselin R.,TRUE
 2012,Rosenholm P.,Rosenholm,Rosenholm,Patrik,Patrik Rosenholm,105113,Rosenholm P.,TRUE
 2012,Rosol L.,Rosol,Rosol,Lukas,Lukas Rosol,104586,Rosol L.,TRUE
 2012,Rufin G.,Rufin,Rufin,Guillaume,Guillaume Rufin,105558,Rufin G.,TRUE
@@ -954,7 +954,7 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2013,Balleret B.,Balleret,Balleret,Benjamin,Benjamin Balleret,104112,Balleret B.,TRUE
 2013,Barrientos N.,Barrientos,Barrientos,Nicolas,Nicolas Barrientos,104905,Barrientos N.,TRUE
 2013,Basic M.,Basic,Basic,Mirza,Mirza Basic,105806,Basic M.,TRUE
-2013,Bautista R.,Bautista,Bautista Agut,Roberto,Roberto Bautista,105138,Bautista Agut R.,TRUE
+2013,Bautista R.,Bautista,Bautista Agut,Roberto,Roberto Bautista Agut,105138,Bautista Agut R.,TRUE
 2013,Beck A.,Beck,Beck,Andreas,Andreas Beck,104676,Beck A.,TRUE
 2013,Becker B.,Becker,Becker,Benjamin,Benjamin Becker,103794,Becker B.,TRUE
 2013,Bedene A.,Bedene,Bedene,Aljaz,Aljaz Bedene,105379,Bedene A.,TRUE
@@ -980,7 +980,7 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2013,Brugues-Davi A.,Brugues-Davi,Brugues Davi,Arnau,Arnau Brugues-Davi,104516,Brugues Davi A.,TRUE
 2013,Capdeville P.,Capdeville,Capdeville,Paul,Paul Capdeville,104154,Capdeville P.,TRUE
 2013,Carballes Baena R.,Carballes,Carballes Baena,Roberto,Roberto Carballes,106148,Carballes Baena R.,TRUE
-2013,Carreno-Busta P.,Carreno-Busta,Carreno Busta,Pablo,Pablo Carreno-Busta,105807,Carreno Busta P.,TRUE
+2013,Carreno-Busta P.,Carreno-Busta,Carreno Busta,Pablo,Pablo Carreno Busta,105807,Carreno Busta P.,TRUE
 2013,Cecchinato M.,Cecchinato,Cecchinato,Marco,Marco Cecchinato,106065,Cecchinato M.,TRUE
 2013,Chardy J.,Chardy,Chardy,Jeremy,Jeremy Chardy,104871,Chardy J.,TRUE
 2013,Chiudinelli M.,Chiudinelli,Chiudinelli,Marco,Marco Chiudinelli,103843,Chiudinelli M.,TRUE
@@ -996,10 +996,10 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2013,Dancevic F.,Dancevic,Dancevic,Frank,Frank Dancevic,104433,Dancevic F.,TRUE
 2013,Darcis S.,Darcis,Darcis,Steve,Steve Darcis,104327,Darcis S.,TRUE
 2013,Davydenko N.,Davydenko,Davydenko,Nikolay,Nikolay Davydenko,103786,Davydenko N.,TRUE
-2013,De Bakker T.,De,De Bakker,Thiemo,Thiemo De,105217,De Bakker T.,TRUE
-2013,De Schepper K.,De,De Schepper,Kenny,Kenny De,104932,De Schepper K.,TRUE
+2013,De Bakker T.,De,De Bakker,Thiemo,Thiemo De Bakker,105217,De Bakker T.,TRUE
+2013,De Schepper K.,De,De Schepper,Kenny,Kenny De Schepper,104932,De Schepper K.,TRUE
 2013,De Voest R.,De,De Voest,Rik,Rik De,103573,De Voest R.,TRUE
-2013,Del Potro J.M.,Del,Del Potro,Juan Martin,Juan Martin Del,105223,Del Potro J.,TRUE
+2013,Del Potro J.M.,Del,Del Potro,Juan Martin,Juan Martin Del Potro,105223,Del Potro J.,TRUE
 2013,Delbonis F.,Delbonis,Delbonis,Federico,Federico Delbonis,105643,Delbonis F.,TRUE
 2013,Desein N.,Desein,Desein,Niels,Niels Desein,104944,Desein N.,TRUE
 2013,Devvarman S.,Devvarman,Devvarman,Somdev,Somdev Devvarman,104500,Devvarman S.,TRUE
@@ -1027,14 +1027,14 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2013,Fognini F.,Fognini,Fognini,Fabio,Fabio Fognini,104926,Fognini F.,TRUE
 2013,Fucsovics M.,Fucsovics,Fucsovics,Marton,Marton Fucsovics,105916,Fucsovics M.,TRUE
 2013,Gabashvili T.,Gabashvili,Gabashvili,Teymuraz,Teymuraz Gabashvili,104559,Gabashvili T.,TRUE
-2013,Garcia-Lopez G.,Garcia-Lopez,Garcia Lopez,Guillermo,Guillermo Garcia-Lopez,104198,Garcia Lopez G.,TRUE
+2013,Garcia-Lopez G.,Garcia-Lopez,Garcia Lopez,Guillermo,Guillermo Garcia Lopez,104198,Garcia Lopez G.,TRUE
 2013,Garin C.,Garin,Garin,Christian,Christian Garin,106426,Garin C.,TRUE
 2013,Garza D.,Garza,Garza,Daniel,Daniel Garza,104535,Garza D.,TRUE
 2013,Gasquet R.,Gasquet,Gasquet,Richard,Richard Gasquet,104755,Gasquet R.,TRUE
 2013,Ghedin R.,Ghedin,Ghedin,Riccardo,Riccardo Ghedin,104644,Ghedin R.,TRUE
 2013,Ghem A.,Ghem,Ghem,Andre,Andre Ghem,104007,Ghem A.,TRUE
 2013,Gicquel M.,Gicquel,Gicquel,Marc,Marc Gicquel,102967,Gicquel M.,TRUE
-2013,Gimeno-Traver D.,Gimeno-Traver,Gimeno Traver,Daniel,Daniel Gimeno-Traver,104593,Gimeno Traver D.,TRUE
+2013,Gimeno-Traver D.,Gimeno-Traver,Gimeno Traver,Daniel,Daniel Gimeno Traver,104593,Gimeno Traver D.,TRUE
 2013,Ginepri R.,Ginepri,Ginepri,Robby,Robby Ginepri,104068,Ginepri R.,TRUE
 2013,Giraldo S.,Giraldo,Giraldo,Santiago,Santiago Giraldo,105053,Giraldo S.,TRUE
 2013,Goffin D.,Goffin,Goffin,David,David Goffin,105676,Goffin D.,TRUE
@@ -1173,7 +1173,7 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2013,Robert S.,Robert,Robert,Stephane,Stephane Robert,103565,Robert S.,TRUE
 2013,Robredo T.,Robredo,Robredo,Tommy,Tommy Robredo,103990,Robredo T.,TRUE
 2013,Rochus O.,Rochus,Rochus,Olivier,Olivier Rochus,103694,Rochus O.,TRUE
-2013,Roger-Vasselin E.,Roger-Vasselin,Vasselin,R,R Roger-Vasselin,110261,Vasselin R.,TRUE
+2013,Roger-Vasselin E.,Roger-Vasselin,Vasselin,R,Edouard Roger Vasselin,110261,Vasselin R.,TRUE
 2013,Rosol L.,Rosol,Rosol,Lukas,Lukas Rosol,104586,Rosol L.,TRUE
 2013,Rufin G.,Rufin,Rufin,Guillaume,Guillaume Rufin,105558,Rufin G.,TRUE
 2013,Russell M.,Russell,Russell,Michael,Michael Russell,103188,Russell M.,TRUE
@@ -1249,7 +1249,7 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2014,Andujar P.,Andujar,Andujar,Pablo,Pablo Andujar,104665,Andujar P.,TRUE
 2014,Arguello F.,Arguello,Arguello,Facundo,Facundo Arguello,106032,Arguello F.,TRUE
 2014,Arnaboldi A.,Arnaboldi,Arnaboldi,Andrea,Andrea Arnaboldi,105063,Arnaboldi A.,TRUE
-2014,Artunedo Martinavarro A.,Artunedo,Artunedo Martinavarr,Andres,Andres Artunedo,106238,Artunedo Martinavarr A.,TRUE
+2014,Artunedo Martinavarro A.,Artunedo,Artunedo Martinavarr,Andres,Andres Artunedo ,106238,Artunedo Martinavarr A.,TRUE
 2014,Bachinger M.,Bachinger,Bachinger,Matthias,Matthias Bachinger,104897,Bachinger M.,TRUE
 2014,Baghdatis M.,Baghdatis,Baghdatis,Marcos,Marcos Baghdatis,104571,Baghdatis M.,TRUE
 2014,Bagnis F.,Bagnis,Bagnis,Facundo,Facundo Bagnis,105487,Bagnis F.,TRUE
@@ -1259,7 +1259,7 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2014,Barrientos N.,Barrientos,Barrientos,Nicolas,Nicolas Barrientos,104905,Barrientos N.,TRUE
 2014,Basic M.,Basic,Basic,Mirza,Mirza Basic,105806,Basic M.,TRUE
 2014,Basilashvili N.,Basilashvili,Basilashvili,Nikoloz,Nikoloz Basilashvili,105932,Basilashvili N.,TRUE
-2014,Bautista R.,Bautista,Bautista Agut,Roberto,Roberto Bautista,105138,Bautista Agut R.,TRUE
+2014,Bautista R.,Bautista,Bautista Agut,Roberto,Roberto Bautista Agut,105138,Bautista Agut R.,TRUE
 2014,Beck A.,Beck,Beck,Andreas,Andreas Beck,104676,Beck A.,TRUE
 2014,Becker B.,Becker,Becker,Benjamin,Benjamin Becker,103794,Becker B.,TRUE
 2014,Bedene A.,Bedene,Bedene,Aljaz,Aljaz Bedene,105379,Bedene A.,TRUE
@@ -1278,7 +1278,7 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2014,Burquier G.,Burquier,Burquier,Gregoire,Gregoire Burquier,104393,Burquier G.,TRUE
 2014,Cabal J.S.,Cabal,Cabal,Juan Sebastian,Juan Sebastian Cabal,108701,Cabal J.,TRUE
 2014,Carballes Baena R.,Carballes,Carballes Baena,Roberto,Roberto Carballes,106148,Carballes Baena R.,TRUE
-2014,Carreno-Busta P.,Carreno-Busta,Carreno Busta,Pablo,Pablo Carreno-Busta,105807,Carreno Busta P.,TRUE
+2014,Carreno-Busta P.,Carreno-Busta,Carreno Busta,Pablo,Pablo Carreno Busta,105807,Carreno Busta P.,TRUE
 2014,Cecchinato M.,Cecchinato,Cecchinato,Marco,Marco Cecchinato,106065,Cecchinato M.,TRUE
 2014,Cervantes I.,Cervantes,Cervantes Huegun,Inigo,Inigo Cervantes,105438,Cervantes Huegun I.,TRUE
 2014,Chardy J.,Chardy,Chardy,Jeremy,Jeremy Chardy,104871,Chardy J.,TRUE
@@ -1296,10 +1296,10 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2014,Darcis S.,Darcis,Darcis,Steve,Steve Darcis,104327,Darcis S.,TRUE
 2014,Davydenko N.,Davydenko,Davydenko,Nikolay,Nikolay Davydenko,103786,Davydenko N.,TRUE
 2014,Davydenko P.,Davydenko,Davydenko,Philip,Philip Davydenko,106053,Davydenko P.,TRUE
-2014,De Bakker T.,De,De Bakker,Thiemo,Thiemo De,105217,De Bakker T.,TRUE
+2014,De Bakker T.,De,De Bakker,Thiemo,Thiemo De Bakker,105217,De Bakker T.,TRUE
 2014,De Paula F.,De,De Paula,Fabiano,Fabiano De,105245,De Paula F.,TRUE
-2014,De Schepper K.,De,De Schepper,Kenny,Kenny De,104932,De Schepper K.,TRUE
-2014,Del Potro J.M.,Del,Del Potro,Juan Martin,Juan Martin Del,105223,Del Potro J.,TRUE
+2014,De Schepper K.,De,De Schepper,Kenny,Kenny De Schepper,104932,De Schepper K.,TRUE
+2014,Del Potro J.M.,Del,Del Potro,Juan Martin,Juan Martin Del Potro,105223,Del Potro J.,TRUE
 2014,Delbonis F.,Delbonis,Delbonis,Federico,Federico Delbonis,105643,Delbonis F.,TRUE
 2014,Delic M.,Delic,Delic,Mate,Mate Delic,106243,Delic M.,TRUE
 2014,Desein N.,Desein,Desein,Niels,Niels Desein,104944,Desein N.,TRUE
@@ -1328,13 +1328,13 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2014,Gabashvili T.,Gabashvili,Gabashvili,Teymuraz,Teymuraz Gabashvili,104559,Gabashvili T.,TRUE
 2014,Galovic V.,Galovic,Galovic,Viktor,Viktor Galovic,105634,Galovic V.,TRUE
 2014,Gao X.,Gao,Gao,Xin,Xin Gao,106321,Gao X.,TRUE
-2014,Garcia-Lopez G.,Garcia-Lopez,Garcia Lopez,Guillermo,Guillermo Garcia-Lopez,104198,Garcia Lopez G.,TRUE
+2014,Garcia-Lopez G.,Garcia-Lopez,Garcia Lopez,Guillermo,Guillermo Garcia Lopez,104198,Garcia Lopez G.,TRUE
 2014,Garin C.,Garin,Garin,Christian,Christian Garin,106426,Garin C.,TRUE
 2014,Gasquet R.,Gasquet,Gasquet,Richard,Richard Gasquet,104755,Gasquet R.,TRUE
 2014,Gerasimov E.,Gerasimov,Gerasimov,Egor,Egor Gerasimov,106078,Gerasimov E.,TRUE
 2014,Giannessi A.,Giannessi,Giannessi,Alessandro,Alessandro Giannessi,105561,Giannessi A.,TRUE
 2014,Gicquel M.,Gicquel,Gicquel,Marc,Marc Gicquel,102967,Gicquel M.,TRUE
-2014,Gimeno-Traver D.,Gimeno-Traver,Gimeno Traver,Daniel,Daniel Gimeno-Traver,104593,Gimeno Traver D.,TRUE
+2014,Gimeno-Traver D.,Gimeno-Traver,Gimeno Traver,Daniel,Daniel Gimeno Traver,104593,Gimeno Traver D.,TRUE
 2014,Ginepri R.,Ginepri,Ginepri,Robby,Robby Ginepri,104068,Ginepri R.,TRUE
 2014,Giraldo S.,Giraldo,Giraldo,Santiago,Santiago Giraldo,105053,Giraldo S.,TRUE
 2014,Giron M.,Giron,Giron,Marcos,Marcos Giron,106218,Giron M.,TRUE
@@ -1471,7 +1471,7 @@ Year,Odds_Name,Odds_LN,atp_ln,atp_fn,atp_name,atp_player_id,Odds_Check,Odds_Bool
 2014,Riba P.,Riba,Riba,Pere,Pere Riba,105137,Riba P.,TRUE
 2014,Robert S.,Robert,Robert,Stephane,Stephane Robert,103565,Robert S.,TRUE
 2014,Robredo T.,Robredo,Robredo,Tommy,Tommy Robredo,103990,Robredo T.,TRUE
-2014,Roger-Vasselin E.,Roger-Vasselin,Vasselin,R,R Roger-Vasselin,110261,Vasselin R.,TRUE
+2014,Roger-Vasselin E.,Roger-Vasselin,Vasselin,R,Edouard Roger Vasselin,110261,Vasselin R.,TRUE
 2014,Rola B.,Rola,Rola,Blaz,Blaz Rola,105641,Rola B.,TRUE
 2014,Rosenholm P.,Rosenholm,Rosenholm,Patrik,Patrik Rosenholm,105113,Rosenholm P.,TRUE
 2014,Rosol L.,Rosol,Rosol,Lukas,Lukas Rosol,104586,Rosol L.,TRUE
